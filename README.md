@@ -8,7 +8,7 @@
 
 ## 基础岛
 ### 1.书生大模型全链路开源体系：https://blog.csdn.net/m0_73672030/article/details/142468906
-### 2.8G 显存玩转书生大模型 Demo
+### 2.8G 显存玩转书生大模型 Demo：https://blog.csdn.net/m0_73672030/article/details/142479679
 ### 3.浦语提示词工程实践
 ### 4.InternLM + LlamaIndex RAG 实践
 ### 5.XTuner 微调个人小助手认知
