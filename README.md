@@ -11,7 +11,7 @@
 ### 2.8G 显存玩转书生大模型 Demo：https://blog.csdn.net/m0_73672030/article/details/142479679
 ### 3.浦语提示词工程实践：https://blog.csdn.net/m0_73672030/article/details/142491455
 ### 4.InternLM + LlamaIndex RAG 实践：https://blog.csdn.net/m0_73672030/article/details/142493175
-### 5.XTuner 微调个人小助手认知
+### 5.XTuner 微调个人小助手认知：https://blog.csdn.net/m0_73672030/article/details/142501251
 ### 6.OpenCompass 评测 InternLM-1.8B 实践
 
 ## 进阶岛
