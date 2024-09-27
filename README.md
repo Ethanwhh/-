@@ -16,7 +16,7 @@
 
 ## 进阶岛
 ### 1.探索 InternLM 模型能力边界：https://blog.csdn.net/m0_73672030/article/details/142526802
-### 2.Lagent 自定义你的 Agent 智能体
+### 2.Lagent 自定义你的 Agent 智能体：https://blog.csdn.net/m0_73672030/article/details/142553182
 ### 3.LMDeploy 量化部署进阶实践
 ### 4.InternVL 多模态模型部署微调实践
 ### 5.茴香豆：企业级知识库问答工具
