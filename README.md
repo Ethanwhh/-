@@ -19,7 +19,7 @@
 ### 2.Lagent 自定义你的 Agent 智能体：https://blog.csdn.net/m0_73672030/article/details/142553182
 ### 3.LMDeploy 量化部署进阶实践：https://blog.csdn.net/m0_73672030/article/details/142585606
 ### 4.InternVL 多模态模型部署微调实践：https://blog.csdn.net/m0_73672030/article/details/142585640
-### 5.茴香豆：企业级知识库问答工具
+### 5.茴香豆：企业级知识库问答工具：https://blog.csdn.net/m0_73672030/article/details/142603133
 ### 6.MindSearch 快速部署
 
 ## 彩蛋岛
