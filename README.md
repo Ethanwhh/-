@@ -20,7 +20,7 @@
 ### 3.LMDeploy 量化部署进阶实践：https://blog.csdn.net/m0_73672030/article/details/142585606
 ### 4.InternVL 多模态模型部署微调实践：https://blog.csdn.net/m0_73672030/article/details/142585640
 ### 5.茴香豆：企业级知识库问答工具：https://blog.csdn.net/m0_73672030/article/details/142603133
-### 6.MindSearch 快速部署
+### 6.MindSearch 快速部署：https://blog.csdn.net/m0_73672030/article/details/142612814
 
 ## 彩蛋岛
 ### 1.销冠大模型案例
