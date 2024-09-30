@@ -23,5 +23,5 @@
 ### 6.MindSearch 快速部署：https://blog.csdn.net/m0_73672030/article/details/142612814
 
 ## 彩蛋岛
-### 1.销冠大模型案例
+### 1.销冠大模型案例：https://blog.csdn.net/m0_73672030/article/details/142656922
 ### 2.InternLM 1.8B 模型 Android 端侧部署实践
