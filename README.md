@@ -27,5 +27,5 @@
 ### 1.销冠大模型案例：https://blog.csdn.net/m0_73672030/article/details/142656922
 ### 2.InternLM 1.8B 模型 Android 端侧部署实践：https://blog.csdn.net/m0_73672030/article/details/142657109
 
-
+![结束啦](/pictures/02.jpg)
 ## 完结啦，欢迎大家和我交流学习，给个star吧！
