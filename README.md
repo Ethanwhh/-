@@ -29,3 +29,4 @@
 
 ![结束啦](/pictures/02.jpg)
 ## 完结啦，欢迎大家和我交流学习，给个star吧！
+Have a try!
